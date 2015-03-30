@@ -1,0 +1,2 @@
+{:require  [error-demo.app]
+ :init-fns [error-demo.app/init]}
